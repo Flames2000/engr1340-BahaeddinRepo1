@@ -5,3 +5,7 @@ Adding integers means combining their values. If the integers have the same sign
 ## Example 1
 
 7 + 5 = 12
+
+## Example 2
+
+-3 + 8 = 5
